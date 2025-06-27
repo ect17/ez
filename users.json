@@ -7,11 +7,13 @@
     },
     {
       "username": "admin",
-      "password_hash": "21232f297a57a5a743894a0e4a801fc3"  
+      "password_hash": "21232f297a57a5a743894a0e4a801fc3"
+      "student_name":"yam"
     },
     {
       "username": "rotsen",
-      "password_hash": "111e6eee4a6306654a038e42583693b5"  
+      "password_hash": "111e6eee4a6306654a038e42583693b5"
+      "student_name":"john"
     }
   ]
 }
