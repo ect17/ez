@@ -11,7 +11,7 @@
       "a_id":2,
       "a_date":"06/28/2025",
       "a_text":"hi",
-      "a_sect":"en1a",
+      "a_sect":"admin",
       "a_username":"yam"
   },
         {
@@ -19,7 +19,7 @@
       "a_date":"06/28/2025",
       "a_text":"teachers",
       "a_sect":"admin",
-      "a_username":"aym"
+      "a_username":"yam"
   }
     
   ]
